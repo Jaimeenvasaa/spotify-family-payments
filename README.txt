@@ -1,0 +1,1 @@
+Upload het.html and ashutosh.html to the root of your GitHub Pages repository, replacing the old versions. Both files now construct the UPI query manually so the pa parameter contains the literal @ character, not %40. Commit the changes to main and wait for Pages to redeploy. Then test the links in each recipient's UPI apps before using them for actual payment.
